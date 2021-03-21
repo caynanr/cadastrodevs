@@ -61,6 +61,10 @@ h3 {
   background: none;
   outline: none;
   padding: 1em;
+  font-size: 1rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
 }
 
 .grupo-selecao {
@@ -81,6 +85,7 @@ h3 {
 
 .grupo-selecao input {
   font-weight: 400;
+  font-size: 1rem;
 }
 
 .grupo-selecao select {
@@ -114,6 +119,10 @@ h3 {
 
 .grupo-selecao textarea {
   border: 4px solid rgba(224, 224, 224, 0.35);
+  font-size: 1rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
   background: none;
   outline: none;
   padding: 10px;
